@@ -14,10 +14,6 @@ code {
   margin: auto;
 }
 
-form {
-  display: flex;
-  flex-direction: column;
-}
 .text-field {
   margin: 5px !important;
 }
